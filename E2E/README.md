@@ -8,7 +8,7 @@ In signal processing, weighted prediction error（[WPE](https://github.com/fgnt/
 
 <div align="center">Tabel 1: Settings of embedding extractors</div>
 
-<div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/extractors.png" alt="extractors" style="zoom:80%;" /></div>
+<div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/extractors.png" alt="extractors" width="640" /></div>
 
 <div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/e2e3.png" style="transform:rotate(90deg);"></div>																									
 <div align="center">Figure 1: The sequence model of E2E3</div>
