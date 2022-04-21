@@ -15,3 +15,25 @@ In signal processing, weighted prediction error（[WPE](https://github.com/fgnt/
 <div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/e2e3.png" style="transform:rotate(90deg);"></div>		
 
 <div align="center">Figure 1: The sequence model of E2E3</div>
+
+## Quick start
+
+1. Put scripts in espnet2 folder in this repoitorie in their respective folders in your espnet tool.
+2. Get enhancement channel and lip roi by runing  stage 2 and 18 in [NN-HMM/run_misp.sh](https://github.com/mispchallenge/MISP2021-AVSR/blob/main/NN-HMM/run_misp.sh)
+3. Start to run:
+
+```
+run_gss_feattcn_lipfar.sh --stage 1
+run_gss_featcom_lipfar.sh --stage 1
+run_gss_wavfinal_lipfar.sh --stage 1
+```
+
+## Requirments
+
+- [espnet](https://github.com/espnet/espnet)
+
+- [nara_wpe](https://github.com/fgnt/nara_wpe)
+
+- [pb_chime5](https://github.com/fgnt/pb_chime5)
+
+  
