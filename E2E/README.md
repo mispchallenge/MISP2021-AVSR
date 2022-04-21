@@ -4,14 +4,11 @@ In signal processing, weighted prediction error（[WPE](https://github.com/fgnt/
 
 <center>Tabel 1: The performance of E2E models on MISP2021-AVSR</center>
 
-<img src="https://github.com/mispchallenge/MISP2021-AVSR/images/results.png" alt="results" style="zoom:67%;" />
-
-
+<img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/results.png" alt="results" style="zoom:67%;" />
 
 <center>Tabel 1: Settings of embedding extractors </center>
 
-<img src="https://github.com/mispchallenge/MISP2021-AVSR/images/extractors.png" alt="extractors" style="zoom:80%;" />
+<img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/extractors.png" alt="extractors" style="zoom:80%;" />
 
-<center><img src="https://github.com/mispchallenge/MISP2021-AVSR/images/e2e3.png" style="transform:rotate(90deg);"></center>																									
-
+<center><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/e2e3.png" style="transform:rotate(90deg);"></center>																									
 <center>Figure 1: The sequence model of E2E3  </center>
