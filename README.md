@@ -15,6 +15,13 @@ Audio-Visual Speech Recognition (AVSR) corpus of MISP2021 challenge, a large-sca
 <div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/framework.png" width="640"/></div>
 
 
+## Citation
+
+If you find this code useful in your research, please consider to cite the following papers:
+
+```bibtex
+
+```
 
 
 
