@@ -11,7 +11,7 @@ Audio-Visual Speech Recognition (AVSR) corpus of MISP2021 challenge, a large-sca
 <div align="center"> Tabel 2: Scence configurations</div>
 <div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/scence.png" width="640"/></div>
 
-<div align="center"> Fig 1: Overall framework for hybird ASR/VSR/AVSR systems</div>
+<div align="center"> Figure 1: Overall framework for hybird ASR/VSR/AVSR systems</div>
 <div align="center"><img src="https://github.com/mispchallenge/MISP2021-AVSR/blob/main/images/framework.png" width="640"/></div>
 
 
